@@ -1,0 +1,75 @@
+c:\users\natalia\documents\visual studio 2017\Projects\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe.config
+c:\users\natalia\documents\visual studio 2017\Projects\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe
+c:\users\natalia\documents\visual studio 2017\Projects\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.pdb
+c:\users\natalia\documents\visual studio 2017\Projects\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.csprojResolveAssemblyReference.cache
+c:\users\natalia\documents\visual studio 2017\Projects\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.Form1.resources
+c:\users\natalia\documents\visual studio 2017\Projects\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.Properties.Resources.resources
+c:\users\natalia\documents\visual studio 2017\Projects\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.csproj.GenerateResource.Cache
+c:\users\natalia\documents\visual studio 2017\Projects\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.exe
+c:\users\natalia\documents\visual studio 2017\Projects\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.pdb
+C:\Users\Natalia\Desktop\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe.config
+C:\Users\Natalia\Desktop\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe
+C:\Users\Natalia\Desktop\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.pdb
+C:\Users\Natalia\Desktop\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Desktop\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.Form1.resources
+C:\Users\Natalia\Desktop\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.Properties.Resources.resources
+C:\Users\Natalia\Desktop\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.csproj.GenerateResource.Cache
+C:\Users\Natalia\Desktop\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.exe
+C:\Users\Natalia\Desktop\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.pdb
+C:\Users\Natalia\Desktop\Comp_networks_routing — копия\Comp_networks_routing\obj\Debug\Comp_networks_routing.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Desktop\Comp_networks_routing — копия\Comp_networks_routing\obj\Debug\Comp_networks_routing.Form1.resources
+C:\Users\Natalia\Desktop\Comp_networks_routing — копия\Comp_networks_routing\obj\Debug\Comp_networks_routing.Properties.Resources.resources
+C:\Users\Natalia\Desktop\Comp_networks_routing — копия\Comp_networks_routing\obj\Debug\Comp_networks_routing.csproj.GenerateResource.Cache
+C:\Users\Natalia\Desktop\Comp_networks_routing — копия\Comp_networks_routing\obj\Debug\Comp_networks_routing.exe
+C:\Users\Natalia\Desktop\Comp_networks_routing — копия\Comp_networks_routing\obj\Debug\Comp_networks_routing.pdb
+C:\Users\Natalia\Desktop\Comp_networks_routing — копия\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe.config
+C:\Users\Natalia\Desktop\Comp_networks_routing — копия\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe
+C:\Users\Natalia\Desktop\Comp_networks_routing — копия\Comp_networks_routing\bin\Debug\Comp_networks_routing.pdb
+C:\Users\morfe\Desktop\Comp_networks_routing — копия\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe.config
+C:\Users\morfe\Desktop\Comp_networks_routing — копия\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe
+C:\Users\morfe\Desktop\Comp_networks_routing — копия\Comp_networks_routing\bin\Debug\Comp_networks_routing.pdb
+C:\Users\morfe\Desktop\Comp_networks_routing — копия\Comp_networks_routing\obj\Debug\Comp_networks_routing.csprojResolveAssemblyReference.cache
+C:\Users\morfe\Desktop\Comp_networks_routing — копия\Comp_networks_routing\obj\Debug\Comp_networks_routing.Form1.resources
+C:\Users\morfe\Desktop\Comp_networks_routing — копия\Comp_networks_routing\obj\Debug\Comp_networks_routing.Properties.Resources.resources
+C:\Users\morfe\Desktop\Comp_networks_routing — копия\Comp_networks_routing\obj\Debug\Comp_networks_routing.csproj.GenerateResource.Cache
+C:\Users\morfe\Desktop\Comp_networks_routing — копия\Comp_networks_routing\obj\Debug\Comp_networks_routing.csproj.CoreCompileInputs.cache
+C:\Users\morfe\Desktop\Comp_networks_routing — копия\Comp_networks_routing\obj\Debug\Comp_networks_routing.exe
+C:\Users\morfe\Desktop\Comp_networks_routing — копия\Comp_networks_routing\obj\Debug\Comp_networks_routing.pdb
+C:\Users\morfe\Desktop\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.csprojResolveAssemblyReference.cache
+C:\Users\morfe\Desktop\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.Form1.resources
+C:\Users\morfe\Desktop\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.Properties.Resources.resources
+C:\Users\morfe\Desktop\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.csproj.GenerateResource.Cache
+C:\Users\morfe\Desktop\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.csproj.CoreCompileInputs.cache
+C:\Users\morfe\Desktop\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.exe
+C:\Users\morfe\Desktop\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.pdb
+C:\Users\morfe\Desktop\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe.config
+C:\Users\morfe\Desktop\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe
+C:\Users\morfe\Desktop\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.pdb
+C:\Users\morfe\OneDrive\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.csprojResolveAssemblyReference.cache
+C:\Users\morfe\OneDrive\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.Form1.resources
+C:\Users\morfe\OneDrive\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.Properties.Resources.resources
+C:\Users\morfe\OneDrive\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.csproj.GenerateResource.Cache
+C:\Users\morfe\OneDrive\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.csproj.CoreCompileInputs.cache
+C:\Users\morfe\OneDrive\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.exe
+C:\Users\morfe\OneDrive\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.pdb
+C:\Users\morfe\OneDrive\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe.config
+C:\Users\morfe\OneDrive\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe
+C:\Users\morfe\OneDrive\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.pdb
+C:\Users\Natalia\Desktop\Курсовая_сети\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe.config
+C:\Users\Natalia\Desktop\Курсовая_сети\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe
+C:\Users\Natalia\Desktop\Курсовая_сети\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.pdb
+C:\Users\Natalia\Desktop\Курсовая_сети\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Desktop\Курсовая_сети\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.Form1.resources
+C:\Users\Natalia\Desktop\Курсовая_сети\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.Properties.Resources.resources
+C:\Users\Natalia\Desktop\Курсовая_сети\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.csproj.GenerateResource.Cache
+C:\Users\Natalia\Desktop\Курсовая_сети\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.exe
+C:\Users\Natalia\Desktop\Курсовая_сети\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.pdb
+D:\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe.config
+D:\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.exe
+D:\Comp_networks_routing\Comp_networks_routing\bin\Debug\Comp_networks_routing.pdb
+D:\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.csprojResolveAssemblyReference.cache
+D:\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.Form1.resources
+D:\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.Properties.Resources.resources
+D:\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.csproj.GenerateResource.Cache
+D:\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.exe
+D:\Comp_networks_routing\Comp_networks_routing\obj\Debug\Comp_networks_routing.pdb
